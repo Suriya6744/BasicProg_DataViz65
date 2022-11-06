@@ -15,9 +15,9 @@
   นางสาวนารากร วรกุล      633020553-6
   
   นายสุริยา ปันดอน         633020554-4
-  # Collab
-  # Presentation
-  # Google Data Studio
+  ## Collab
+  ## Presentation
+  ## Google Data Studio
 
 # กลุ่ม Final
   นายสุริยา ปันดอน         633020554-4
