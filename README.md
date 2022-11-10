@@ -20,6 +20,7 @@
   [collab](https://github.com/Suriya6744/BasicProg_DataViz65/blob/main/project.ipynb)
   ## Presentation
   [Canva](https://www.canva.com/design/DAFRQLbbk7s/3ba8fsyGhBYsv-zlVdoJIA/edit?utm_content=DAFRQLbbk7s&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton&fbclid=IwAR1ellrem1Z6wohwyWRLQ6q-h_DXnwAUThrnBZMSj2AB7jue5mxlyzfGBKk)
+  [PDF](file:///C:/Users/User/Downloads/Project%20Present.pdf)
   ## Google Data Studio
   [Dashboard](https://datastudio.google.com/reporting/f11ea810-5936-493d-ab1a-f5acc5f94f78)
 # กลุ่ม Final
