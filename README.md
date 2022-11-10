@@ -19,6 +19,7 @@
   ## Collab
   https://github.com/Suriya6744/BasicProg_DataViz65/blob/main/project.ipynb
   ## Presentation
+  file:///C:/Users/User/Downloads/Project%20Present.pdf
   ## Google Data Studio
   https://datastudio.google.com/reporting/f11ea810-5936-493d-ab1a-f5acc5f94f78
 # กลุ่ม Final
